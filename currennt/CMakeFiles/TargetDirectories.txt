@@ -1,0 +1,3 @@
+/home/mohamed/Desktop/NewLibrary/currennt/CMakeFiles/edit_cache.dir
+/home/mohamed/Desktop/NewLibrary/currennt/CMakeFiles/rebuild_cache.dir
+/home/mohamed/Desktop/NewLibrary/currennt/CMakeFiles/currennt.dir
